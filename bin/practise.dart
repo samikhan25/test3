@@ -24,4 +24,5 @@ main(){
         print('f');}
 
 print('hello');
+      print('yes');
 }
